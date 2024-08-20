@@ -1,2 +1,11 @@
 # discord-nativefier
-Discord builded for Linux with Nativefier + Share Screen Audio + Krisp
+Alternative Discord version from Nativefier
+
+### What's working ?
+- Screen sharing with audio
+- Krisp
+- Tray app
+
+### Requirements
+- imagemagick
+- nativefier
